@@ -1,7 +1,7 @@
 # <p align="center">💻 Gym Manager</p>
 
 ## Sobre
-Este site es un sistema que permite registrar los instructores y miembros de un Gimnacio. Para cada instructors podemos visualizar la cantidad de miembros que entrena y para los miembros podemos ver
+Este site es un sistema que permite registrar los instructores y miembros de un Gimnasio. Para cada instructors podemos visualizar la cantidad de miembros que entrena y para los miembros podemos ver
 el instructor por el cual es entrenado.
 ## 🤔 Como ejecutar el proyecto? 
 
